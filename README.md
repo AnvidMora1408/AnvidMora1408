@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Software engineering student at the UDES<br>I'm interested in being a FullStack Developer mainly<br>I'm currently learning Web Development<br>I'm looking to colaborate on some beginner projects to start getting used to working with a team<br>
+I'm a Software engineering student at the UDES<br>I'm currently learning Web Development<br>I'm looking to colaborate on some beginner projects to start getting used to working with a team<br>
 
 
 ## 🌐 Socials:
