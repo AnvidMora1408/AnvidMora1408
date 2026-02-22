@@ -19,7 +19,6 @@ focus:
   - "Scalable System Architecture"
   - "Infrastructure as Code"
   - "Workflow Automation"
-  - "Environmental Sustainability in Tech"
 currently_learning: "Kubernetes · Terraform · Advanced Python"
 fun_fact: "I automate everything I do more than twice "
 ```
