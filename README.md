@@ -1,7 +1,11 @@
 <div align="center">
+  
 # Sup, I'm Andrés Gómez
+
 ### Software Engineering Student · DevOps Enthusiast
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+scalable+infrastructure+%F0%9F%9A%80;Automating+everything+I+can;Passionate+about+DevOps)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+scalable+infrastructure+%F0%9F%9A%80;Automating+everything+I+can;Passionate+about+DevOps+%26)](https://git.io/typing-svg)
+
 </div>
 
 ---
