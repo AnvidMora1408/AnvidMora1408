@@ -46,9 +46,6 @@ fun_fact: "I automate everything I do more than twice "
 - 📡 Scalable infrastructure architecture
 
     </td>
-    <td width="50%" valign="top">
-
-    </td>
   </tr>
 </table>
 
