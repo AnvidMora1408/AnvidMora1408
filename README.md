@@ -32,11 +32,10 @@ fun_fact: "I automate everything I do more than twice "
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="center">
 
 ### 🌐 BigaTIC
 **Infrastructure Lead**
-
 > Research group focused on applied ICT solutions.
 
 - 🔧 Network design & administration
