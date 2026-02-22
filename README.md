@@ -68,6 +68,6 @@ fun_fact: "I automate everything I do more than twice "
 
 <div align="center">
 
-*"Software needs a director to orchestrate it, just like a symphony."*
+*"Software needs a director to orchestrate it, just like a symphony..."*
 
 </div>
