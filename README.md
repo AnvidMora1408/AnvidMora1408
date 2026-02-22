@@ -82,6 +82,4 @@ fun_fact: "I automate everything I do more than twice 🤖"
 
 *"Infrastructure is poetry — elegant, precise, and invisible when done right."* ✨
 
-![Profile Views](https://komarev.com/ghpvc/?username=AnvidMora1408&color=00D9FF&style=flat-square&label=Profile+Views)
-
 </div>
