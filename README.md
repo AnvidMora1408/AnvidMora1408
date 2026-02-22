@@ -30,9 +30,10 @@ fun_fact: "I automate everything I do more than twice "
 
 ## 🔬 Research Experience
 
+<div align="center">
 <table>
   <tr>
-    <td width="50%" valign="top" align="center">
+    <td width="50%" valign="top">
 
 ### 🌐 BigaTIC
 **Infrastructure Lead**
@@ -47,6 +48,7 @@ fun_fact: "I automate everything I do more than twice "
     </td>
   </tr>
 </table>
+</div>
 
 ---
 
