@@ -80,6 +80,6 @@ fun_fact: "I automate everything I do more than twice 🤖"
 
 <div align="center">
 
-*"Infrastructure is poetry — elegant, precise, and invisible when done right."* ✨
+*"Software needs a director to orchestrate it, just like a symphony."* ✨
 
 </div>
