@@ -61,7 +61,7 @@ fun_fact: "I automate everything I do more than twice "
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="55" height="55" alt="Linux"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="55" height="55" alt="Docker"/> <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" width="55" height="55" alt="Cloudflare"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="55" height="55" alt="Nginx"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="55" height="55" alt="Ansible"/>
 
 ### 🧰 Tools & Platforms
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" height="55" alt="Git"/> <img src="https://img.icons8.com/ios-filled/55/ffffff/github.png" width="55" height="55" alt="GitHub"/> <img src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png" width="55" height="55" alt="n8n"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55" height="55" alt="VS Code"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" height="55" alt="Git"/> <img src="https://img.icons8.com/ios-filled/55/ffffff/github.png" width="55" height="55" alt="GitHub"/> <img src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4" width="55" height="55" alt="n8n"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55" height="55" alt="VS Code"/>
 
 </div>
 
