@@ -9,7 +9,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me:
 
 ```yaml
 name: "Andrés David Gómez Morales"
@@ -22,8 +22,8 @@ focus:
   - "Infrastructure as Code"
   - "Workflow Automation"
   - "Environmental Sustainability in Tech"
-currently_learning: "Kubernetes · Terraform · Advanced Golang"
-fun_fact: "I automate everything I do more than twice 🤖"
+currently_learning: "Kubernetes · Terraform · Advanced Python"
+fun_fact: "I automate everything I do more than twice "
 ```
 
 ---
@@ -48,17 +48,6 @@ fun_fact: "I automate everything I do more than twice 🤖"
     </td>
     <td width="50%" valign="top">
 
-### 🌱 CAIAL
-**Environmental Sustainability Axis Leader**
-
-> Research group on AI and intelligent systems.
-
-- ♻️ Leading sustainable practices in tech processes
-- 📊 Measuring environmental impact of IT infrastructure
-- 🤝 Cross-functional team coordination
-- 💡 Proposing green computing strategies
-- 🗂️ Project management & documentation
-
     </td>
   </tr>
 </table>
@@ -80,6 +69,6 @@ fun_fact: "I automate everything I do more than twice 🤖"
 
 <div align="center">
 
-*"Software needs a director to orchestrate it, just like a symphony."* ✨
+*"Software needs a director to orchestrate it, just like a symphony."*
 
 </div>
