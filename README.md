@@ -13,7 +13,7 @@
 name: "Andrés David Gómez Morales"
 age: 18
 university: "Universidad de Santander (UDES)"
-degree (not yet): "Ingeniería de Software - 5th semester"
+degree (not yet): "Software Engineering - 5th semester"
 focus:
   - "DevOps Culture & CI/CD Pipelines"
   - "Scalable System Architecture"
