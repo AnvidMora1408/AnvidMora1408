@@ -25,7 +25,7 @@ focus:
   - "Workflow Automation"
   - "Environmental Sustainability in Tech"
 currently_learning: "Kubernetes · Terraform · Advanced Golang"
-fun_fact: "I automate everything I do more than twice 🤖"
+fun_fact: "I automate everything I do more than twice"
 ```
 
 ---
@@ -93,14 +93,14 @@ fun_fact: "I automate everything I do more than twice 🤖"
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USERNAME&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnvidMora1408&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnvidMora1408&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=TU_USERNAME&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=AnvidMora1408&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -110,9 +110,9 @@ fun_fact: "I automate everything I do more than twice 🤖"
 
 <div align="center">
 
-| 🤖 Automation | 🌱 Sustainability | 🏗️ Architecture |
+| ⚙️ Automation | 🏗️ Architecture |
 |:---:|:---:|:---:|
-| Building n8n workflows and scripts to eliminate repetitive tasks and increase efficiency | Advocating for green computing practices — reducing the carbon footprint of tech infrastructure | Designing resilient, scalable systems that can grow without compromising performance |
+| Building n8n workflows and scripts to eliminate repetitive tasks and increase efficiency | Designing resilient, scalable systems that can grow without compromising performance |
 
 </div>
 
@@ -122,9 +122,9 @@ fun_fact: "I automate everything I do more than twice 🤖"
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU_CORREO@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TU_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andr%C3%A9s-g%C3%B3mez-061618338/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrexgomexmoralex@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnvidMora1408)
 
 </div>
 
@@ -132,8 +132,8 @@ fun_fact: "I automate everything I do more than twice 🤖"
 
 <div align="center">
 
-*"Infrastructure is poetry — elegant, precise, and invisible when done right."* ✨
+*"Infrastructure is poetry — elegant, precise, and invisible when done right."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=TU_USERNAME&color=00D9FF&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=AnvidMora1408&color=00D9FF&style=flat-square&label=Profile+Views)
 
 </div>
